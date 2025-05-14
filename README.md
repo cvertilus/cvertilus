@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **vertiluscolby@gmail.com**
 
+<hr bold>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
