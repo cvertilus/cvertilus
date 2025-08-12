@@ -1,74 +1,66 @@
-<h1 align="center">Hola 👋, soy Colby Vertilus</h1>
-<h3 align="center">Desarrollador  apasionado por construir soluciones robustas, escalables y seguras</h3>
+# Colby Vertilus
 
-<p align="center">
-🔧 Especializado en arquitectura de microservicios, APIs REST, bases de datos relacionales y no relacionales, y herramientas modernas de backend y de Frontend.
-</p>
+Desarrollador apasionado por construir soluciones robustas, escalables y seguras.
 
 ---
 
-- 🔭 Actualmente trabajando en: [Digital Money Backend](https://github.com/cvertilus/Backend-DigitalMoney)
-- 🌱 Aprendiendo y mejorando día a día en temas como arquitectura distribuida, seguridad y rendimiento.
-- 👨‍💻 Mis proyectos están disponibles en: [portfolio-frontend-e4ec2.web.app](https://portfolio-frontend-e4ec2.web.app)
-- 📫 Contacto: **vertiluscolby@gmail.com**
-
-<hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0;" />
-
-
-<h3 align="left">🛠️ Tecnologías y Herramientas:</h3>
-<p align="flex" justify-content="space-between>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" margin="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"  margin="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"  margin="10"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"  margin="10"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"  margin="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"  margin="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"  margin="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"  margin="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"  margin="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</p>
-
-
+## 🔧 Especialización
+- **Arquitectura de Microservicios**: Diseño y desarrollo de sistemas distribuidos.
+- **APIs REST**: Creación de servicios eficientes y seguros.
+- **Bases de Datos**: Experiencia en bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB).
+- **Herramientas Modernas**: Uso de tecnologías de backend y frontend para soluciones completas.
 
 ---
 
-<h3 align="left">🌐 Conectá conmigo:</h3>
-<p align="left">
-  <a href="mailto:vertiluscolby@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/cvertilus" target="_blank">GitHub</a>
-</p>
+## 🚀 Proyectos Destacados
 
+### **Digital Money Backend**
+Plataforma para la gestión de cuentas, transferencias y movimientos de usuario.
+- **Tecnologías**: Spring Boot, PostgreSQL, Docker, Kubernetes.
+- **Características**: Seguridad avanzada, auditoría de actividades, arquitectura escalable.
+- 🔗 [Ver proyecto](#)
 
----
-
-<h3 align="left">📦 Arquitectura y Experiencia:</h3>
-
-- ✅ Microservicios con Spring Boot
-- ✅ Comunicación síncrona (REST) y asíncrona (Kafka, RabbitMQ)
-- ✅ Seguridad con Keycloak (OAuth2, OpenID)
-- ✅ Integración CI/CD con GitHub Actions
-- ✅ Contenedores con Docker y orquestación con Kubernetes
-- ✅ Gestión de eventos y auditoría de actividades de usuario
+### **User Service + Keycloak Integration**
+Microservicio para autenticación, registro y manejo de sesiones con Keycloak.
+- **Tecnologías**: Spring Boot, Keycloak, OAuth2, OpenID.
+- **Características**: Gestión de usuarios, integración segura, soporte para sesiones distribuidas.
+- 🔗 [Ver proyecto](#)
 
 ---
 
-<h3 align="left">🚀 Proyectos Destacados:</h3>
-
-- **Digital Money Backend**  
-  Plataforma para gestión de cuentas, transferencias y movimientos de usuario.  
-  [🔗 Ver proyecto](https://github.com/cvertilus/Backend-DigitalMoney)
-
-- **User Service + Keycloak Integration**  
-  Microservicio para autenticación, registro y manejo de sesiones con Keycloak.  
-  [🔗 Ver proyecto](https://github.com/cvertilus/...)
+## 🌱 Aprendizaje Continuo
+- Arquitectura distribuida.
+- Seguridad en aplicaciones.
+- Optimización de rendimiento.
 
 ---
 
-<p align="center">Gracias por visitar mi perfil. ¡Seguimos construyendo!</p>
+## 🛠️ Tecnologías y Herramientas
+- **Backend**: Spring Boot, Python, TypeScript.
+- **Frontend**: Angular, HTML5, CSS3, JavaScript.
+- **Bases de Datos**: PostgreSQL, MongoDB, MySQL.
+- **DevOps**: Docker, Kubernetes, GitHub Actions.
+- **Mensajería**: Kafka, RabbitMQ.
+- **Seguridad**: Keycloak (OAuth2, OpenID).
+
+---
+
+## 🌐 Conecta Conmigo
+- **Portafolio**: [portfolio-frontend-e4ec2.web.app](https://portfolio-frontend-e4ec2.web.app)
+- **Email**: vertiluscolby@gmail.com
+- **LinkedIn**: [Tu perfil de LinkedIn](#)
+- **GitHub**: [Tu perfil de GitHub](#)
+
+---
+
+## 📦 Arquitectura y Experiencia
+- Diseño de microservicios con comunicación síncrona (REST) y asíncrona (Kafka, RabbitMQ).
+- Integración de seguridad con Keycloak.
+- Implementación de CI/CD con GitHub Actions.
+- Contenedores y orquestación con Docker y Kubernetes.
+- Gestión de eventos y auditoría de actividades de usuario.
+
+---
+
+¡Estoy emocionado por colaborar en proyectos desafiantes y seguir aprendiendo cada día!
 
