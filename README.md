@@ -55,7 +55,7 @@ Plataforma para gestión de cuentas, transferencias y movimientos de usuario.
 
 #### 🔹 User Service + Keycloak Integration
 Microservicio para autenticación, registro y manejo de sesiones con Keycloak.  
-[🔗 Ver proyecto](https://github.com/cvertilus/...)
+[🔗 Ver proyecto](https://github.com/cvertilus/UserManagement)
 
 ---
 
