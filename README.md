@@ -9,9 +9,9 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en: [**Digital Money Backend**](https://github.com/cvertilus/Backend-DigitalMoney)
+- 🔭 Actualmente trabajando en: [**Movie Rervation System**](https://github.com/cvertilus/MovieReservationSystem)
 - 🌱 Siempre aprendiendo: arquitectura distribuida, seguridad, rendimiento y nuevas tecnologías.
-- 👨‍💻 Portafolio: [portfolio-frontend-e4ec2.web.app](https://portfolio-frontend-e4ec2.web.app)
+- 👨‍💻 Portafolio: [https://vertiluscolby.netlify.app](https://vertiluscolby.netlify.app/)
 - 📫 Contacto: **vertiluscolby@gmail.com**
 
 ---
