@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en: [**Movie Rervation System**](https://github.com/cvertilus/MovieReservationSystem)
+- 🔭 Actualmente trabajando en: [**Movie Reservation System**](https://github.com/cvertilus/MovieReservationSystem)
 - 🌱 Siempre aprendiendo: arquitectura distribuida, seguridad, rendimiento y nuevas tecnologías.
 - 👨‍💻 Portafolio: [https://vertiluscolby.netlify.app](https://vertiluscolby.netlify.app/)
 - 📫 Contacto: **vertiluscolby@gmail.com**
